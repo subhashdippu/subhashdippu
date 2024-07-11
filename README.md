@@ -6,9 +6,7 @@
 
 <p>I am a 4th year B.Tech Student at Gautam Buddha Universit(India), who is passionate about technologies💻 and obsessed with the idea of improving himself and wants to grow and excel in it🚀. 
 BackEnd Developer || Problem solving Besides programming, passionate about Artificial Intelligence and I enjoy eating food and travelling.</p>
-- 🌱 I’m currently learning **I’m currently working on Python**
-
-- 💬 Ask me about **Ask me anything, I am always happy to help**
+- I’m currently working on Shopper's Hub
 
 - 📫 How to reach me **subhashprasad2001@gmail.com**
 
