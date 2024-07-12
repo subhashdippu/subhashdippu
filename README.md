@@ -6,6 +6,7 @@
 
 
 <p>I am a M.Tech student at Gautam Buddha University (India), passionate about technologies and obsessed with self-improvement. I'm a Frontend Developer with a strong interest in problem-solving and Artificial Intelligence. Besides programming, I enjoy eating food and traveling. I'm eager to grow and excel in my field.</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suprabhat15&label=Profile%20views&color=0e75b6&style=flat" alt="suprabhat15" /> </p>
 
 - 🔭 I’m currently working on **Shopper's Hub**
 - 📫 How to reach me **subhashprasad2001@gmail.com**
