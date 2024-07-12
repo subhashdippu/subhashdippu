@@ -4,19 +4,19 @@
 <h3 align="center">Hello world</h3>
 
 
-<p>I am a 4th year B.Tech Student at Gautam Buddha Universit(India), who is passionate about technologies💻 and obsessed with the idea of improving himself and wants to grow and excel in it🚀. 
-BackEnd Developer || Problem solving Besides programming, passionate about Artificial Intelligence and I enjoy eating food and travelling.</p>
-- I’m currently working on Shopper's Hub
 
+<p>I am a M.Tech student at Gautam Buddha University (India), passionate about technologies and obsessed with self-improvement. I'm a Frontend Developer with a strong interest in problem-solving and Artificial Intelligence. Besides programming, I enjoy eating food and traveling. I'm eager to grow and excel in my field.</p>
+
+- 🔭 I’m currently working on **Shopper's Hub**
 - 📫 How to reach me **subhashprasad2001@gmail.com**
-
-  
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ISRDJK_VBIaELfQQF35Xk4G-0uUj7CE7/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/subhashprasad201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/subhashprasad201" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/subhashdippu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/subhashdippu/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/subhashprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhashprasad" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/subhashprasad201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="subhashprasad201" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/subhashdippu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subhashdippu" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/subhashprasad2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="subhashprasad2001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
