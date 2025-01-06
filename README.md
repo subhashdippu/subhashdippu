@@ -5,7 +5,7 @@
 
 
 
-<p>I am a M.Tech student at Gautam Buddha University (India), passionate about technologies and obsessed with self-improvement. I'm a Full Stack Developer with a strong interest in problem-solving and Artificial Intelligence. Besides programming, I enjoy eating food and traveling. I'm eager to grow and excel in my field.</p>
+<p>I am a M.Tech student at Gautam Buddha University (India), passionate about technologies and obsessed with self-improvement. I'm a Full Stack Developer with a strong interest in web development and Artificial Intelligence. Besides programming, I enjoy eating food and traveling. I'm eager to grow and excel in my field.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suprabhat15&label=Profile%20views&color=0e75b6&style=flat" alt="suprabhat15" /> </p>
 
 - 🔭 I’m currently working on **FastFeast**
