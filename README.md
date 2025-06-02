@@ -5,12 +5,12 @@
 
 
 
-<p>I am a M.Tech student at Gautam Buddha University (India), passionate about technologies and obsessed with self-improvement. I'm a Full Stack Developer with a strong interest in web development and Artificial Intelligence. Besides programming, I enjoy eating food and traveling. I'm eager to grow and excel in my field.</p>
+<p>I am an M.Tech student at Gautam Buddha University (India). I'm a Full Stack Developer with a strong interest in web development and MERN. Besides programming, I enjoy eating food and traveling. I'm eager to grow and excel in my field.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suprabhat15&label=Profile%20views&color=0e75b6&style=flat" alt="suprabhat15" /> </p>
 
 - 🔭 I’m currently working on **FastFeast**
 - 📫 How to reach me **subhashprasad2001@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ISRDJK_VBIaELfQQF35Xk4G-0uUj7CE7/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iu02iI1dgw79ELLI3dx_NqHuZvVvfPn5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
