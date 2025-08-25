@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **FastFeast**
 - 📫 How to reach me **subhashprasad2001@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iu02iI1dgw79ELLI3dx_NqHuZvVvfPn5/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
